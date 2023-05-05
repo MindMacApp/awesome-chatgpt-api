@@ -15,10 +15,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 - [Plugins and Extensions](#plugins-and-extensions)
 - [Web Apps](#web-apps)
-  - [ChatGPT-like Web UI](#chatgpt-like-web-ui)
+  - [ChatGPT-like UI](#chatgpt-like-ui)
   - [Special-purpose](#special-purpose)
 - [Desktop & Mobile Apps](#desktop--mobile-apps)
-  - [ChatGPT-like Web UI](#chatgpt-like-web-ui)
+  - [ChatGPT-like UI](#chatgpt-like-ui)
   - [Special-purpose](#special-purpose)
 - [CLI](#cli)
 - [Chatbots](#chatbots)
